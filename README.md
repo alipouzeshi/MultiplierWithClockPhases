@@ -1,4 +1,4 @@
-his repository implements two different algorithms for binary multiplication: Shift and Add and Booth's Algorithm. The code showcases detailed intermediate calculations and emphasizes the clock phases for each step of the multiplication process.
+This repository implements two different algorithms for binary multiplication: Shift and Add and Booth's Algorithm. The code showcases detailed intermediate calculations and emphasizes the clock phases for each step of the multiplication process.
 
 Features
 Two Multiplication Methods:
